@@ -1,0 +1,18 @@
+Cada vez que vayas a hacer un proyecto
+Estudia cada parte, en especial los bucles, la POO, los proyectos y las listas
+Aunque es recomendable leer todo
+
+(Por si se olvida algunas cosas, este es el orden a seguir)
+1-) Variables
+2-) Condicionales
+3-) Bucles
+4-) Cadenas de texto
+5-) Colecciones
+6-) Funciones
+7-) POO
+8-) Files
+9-) Manejo de errores
+
+ELEMENTAL ESTUDIAR CADA VEZ QUE SE VAYA A HACER ALGO
+7-) POO
+8-) Ejercicios

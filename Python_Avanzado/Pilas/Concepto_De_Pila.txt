@@ -1,0 +1,2 @@
+Una pila es aquella lista en la que el primer elemento en entrar es el ultimo en salir
+Y el ultimo en entrar es el primero en salir

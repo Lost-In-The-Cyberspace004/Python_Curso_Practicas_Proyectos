@@ -1,0 +1,3 @@
+Una cola es lo opuesto a una pila
+Donde el primer elemento en entrar, es el primero en salir
+Piensa que es como una cola de supermercado
